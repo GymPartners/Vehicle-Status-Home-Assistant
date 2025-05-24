@@ -11,6 +11,10 @@ Now showing data and time of last data refresh
 
 <img width="260" alt="Vehicle Status 3" src="https://github.com/user-attachments/assets/b43984a4-c5d0-44f8-92ea-dcda8dee753a" />
 
+Two climate control buttons now changed to one to toggle the stae, displays if on or off.
+
+<img width="260" alt="Vehicle Status 4" src="https://github.com/user-attachments/assets/7df729b7-0b68-4a2d-9c0e-365eb48896c0" />
+
 This custom visualisation card for Home Assistant provides a real-time visual representation of your cars door, trunk, and hood status, along with battery/fuel level and range information.
 
 I have included the files I used for the Volkswagen ID.4, add a new manual card and use the YAML in the included Vehicle-Status-Home-Assistant.yml file
